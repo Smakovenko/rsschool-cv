@@ -10,4 +10,9 @@
 
 I want to finally finish zero course at RSSchool!
 
+
+
+## Skills
+*  HTML
+*  CSS
  
